@@ -23,5 +23,7 @@
 
 　　处理 ass 文件筛选出底部弹幕，就能获得基本可用的字幕，然后转换成 lrc 就能在几乎所有的手机端本地音乐播放器中播放带歌词的广播剧。
 
-　　↑ 这个脚本我也让 AI 帮我写好了，已经可用，等会儿上传。
+　　↑ ❤️这个筛选底部弹幕并转换格式的脚本，及更详细的 **由下载猫耳FM弹幕到提取底部弹幕生成lrc字幕的详尽流程说明** ，请看
+
+🔗[fishhh666/ass-select-bottom-subtitles-to-lrc: 【猫耳FM广播剧字幕提取】批量处理猫耳FM的xml弹幕转换成的ass弹幕，运用正则筛选出其中的底部弹幕，并转换成lrc格式字幕文件。](https://github.com/fishhh666/ass-select-bottom-subtitles-to-lrc)
 
