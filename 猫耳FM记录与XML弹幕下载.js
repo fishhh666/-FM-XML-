@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         猫耳FM记录与XML弹幕下载
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/fishhh666
 // @version      1.0
 // @description  记录猫耳FM / missevan 的 标题和网址，可导出为 JSON 方便后期处理其他任务。脚本支持下载当前页面弹幕 xml 或记录中的所有页面对应 xml（只能逐个下载）
 // @author       fishhh666
@@ -186,5 +186,6 @@
     }, 1000);
 
     updateMenu();
+
 
 })();
